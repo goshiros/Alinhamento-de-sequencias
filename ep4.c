@@ -1,13 +1,3 @@
-/* ************************************************************************** */
-/* Nome: Giovana Oshiro da Silva                                              */
-/* Numero USP: 8022103                                                        */
-/*                                                                            */
-/* Nome: Lucas Freitas Bastos                                                 */
-/* Numero USP: 9783118                                                        */
-/*                                                                            */
-/* Exercicio-programa 4                                                       */
-/* ************************************************************************** */
-
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 2000303
